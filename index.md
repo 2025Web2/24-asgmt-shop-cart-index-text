@@ -46,5 +46,5 @@
 
 ## 本章の狙い
 
-- [CRUD機能を作ろう！(Create編)](../shop_cart_index/README.md)で学んだ知識を定着させる
+- [CRUD機能を作ろう！(Create編)](https://2025web2.github.io/04-crud-create/)で学んだ知識を定着させる
 - カート内の商品画面を再構築する
