@@ -17,7 +17,7 @@ sort: 2
 
 ## 合格確認方法
 
-1. 本課題の[課題ページ]()に再度アクセスする
+1. 本課題の[課題ページ](https://classroom.github.com/a/3xtyPX_Y)に再度アクセスする
 2. 画面上部にある`Actions`をクリックする<br>
 ![](./images/acions.png)
 1. **一番上**の行に、緑色のチェックが入っていればOK<br>
