@@ -9,6 +9,8 @@ sort: 3
 
 **routes/web.php**
 
+{% raw %}
+
 ```php
 <?php
 
@@ -161,3 +163,4 @@ class CartController extends Controller
     </html>
 ```
 
+{% endraw %}
